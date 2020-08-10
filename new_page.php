@@ -37,7 +37,6 @@
     </div>
 </div>
 
-<p><?php echo "Today is " . date("m-d-Y"); ?></p>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 
 <!-- Compiled and minified JavaScript -->

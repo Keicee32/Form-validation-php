@@ -23,7 +23,6 @@ include 'form_action.php';
         <h4 class="center">Contact Form</h4>
         <div class="red-text center"><?php echo $errors['checkForm']; ?></div>
 
-        <?php echo $gender ?>
             
             <input type="text" name="first_name" value="<?php echo htmlspecialchars($first_name);?>" placeholder="First Name">
             <div class="red-text"><?php echo $errors['first_name']; ?></div>
